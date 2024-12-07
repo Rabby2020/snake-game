@@ -6,7 +6,7 @@ from scorecard import Score
 sc=Screen()
 
 sc.setup(width=900, height=700)
-sc.bgcolor("black")
+sc.bgcolor("purple")
 sc.title("Snake Game")
 sc.tracer(0)
 sk=snake()
